@@ -34,7 +34,6 @@ const Home = ({user, setUser, hidden, setHidden}) => {
 
                         </Link>
                         <div style={{fontSize: '17px', textAlign:'justify'}}>
-                            <h5>Email Builder:</h5>
 
                             <p>TouchPoint’s proprietary email building technology allows users to create a meaningful
                                 email
